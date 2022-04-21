@@ -1,0 +1,327 @@
+[
+  {
+    "_id": "6256d480740bdc173e0ec9b9",
+    "name": "Debra Huffman",
+    "picture": "http://placehold.it/32x32",
+    "age": 22,
+    "gender": "female",
+    "company": "UNEEQ",
+    "email": "debrahuffman@uneeq.com",
+    "phone": "+1 (824) 548-2276",
+    "address": "338 Amherst Street, Konterra, Illinois, 4344",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Harrison Cleveland"
+      },
+      {
+        "id": 1,
+        "name": "Mcclain Higgins"
+      },
+      {
+        "id": 2,
+        "name": "Johnnie Dale"
+      }
+    ]
+  },
+  {
+    "_id": "6256d480263d4ab15ea1150a",
+    "name": "Kim Glass",
+    "picture": "http://placehold.it/32x32",
+    "age": 21,
+    "gender": "female",
+    "company": "ANDERSHUN",
+    "email": "kimglass@andershun.com",
+    "phone": "+1 (869) 495-2908",
+    "address": "792 Erasmus Street, Jennings, Maryland, 6710",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Cynthia Murray"
+      },
+      {
+        "id": 1,
+        "name": "Summer Maxwell"
+      },
+      {
+        "id": 2,
+        "name": "Margaret Soto"
+      }
+    ]
+  },
+  {
+    "_id": "6256d480b360e64664be3fc6",
+    "name": "Jodie Montoya",
+    "picture": "http://placehold.it/32x32",
+    "age": 20,
+    "gender": "female",
+    "company": "PROGENEX",
+    "email": "jodiemontoya@progenex.com",
+    "phone": "+1 (901) 495-3278",
+    "address": "577 Hancock Street, Genoa, Nevada, 3757",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Ewing Sosa"
+      },
+      {
+        "id": 1,
+        "name": "Tyson Price"
+      },
+      {
+        "id": 2,
+        "name": "Jennie Russo"
+      }
+    ]
+  },
+  {
+    "_id": "6256d4807ccedf572647e246",
+    "name": "Carroll Anthony",
+    "picture": "http://placehold.it/32x32",
+    "age": 30,
+    "gender": "male",
+    "company": "QOT",
+    "email": "carrollanthony@qot.com",
+    "phone": "+1 (995) 500-3141",
+    "address": "346 Dank Court, Mapletown, Texas, 2609",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Valenzuela Levy"
+      },
+      {
+        "id": 1,
+        "name": "Abby Mccoy"
+      },
+      {
+        "id": 2,
+        "name": "Abigail Hickman"
+      }
+    ]
+  },
+  {
+    "_id": "6256d480867af1cb9b9c11cf",
+    "name": "Mosley Clark",
+    "picture": "http://placehold.it/32x32",
+    "age": 25,
+    "gender": "male",
+    "company": "CAXT",
+    "email": "mosleyclark@caxt.com",
+    "phone": "+1 (849) 529-2585",
+    "address": "533 Fleet Place, Allensworth, Oklahoma, 6367",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Maricela Roberts"
+      },
+      {
+        "id": 1,
+        "name": "Luisa Holloway"
+      },
+      {
+        "id": 2,
+        "name": "Richardson Strong"
+      }
+    ]
+  },
+  {
+    "_id": "6256d4801c7095ab0273f88d",
+    "name": "Whitaker Stokes",
+    "picture": "http://placehold.it/32x32",
+    "age": 36,
+    "gender": "male",
+    "company": "GRONK",
+    "email": "whitakerstokes@gronk.com",
+    "phone": "+1 (883) 560-2357",
+    "address": "144 Alton Place, Harviell, Florida, 8924",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Franco Lopez"
+      },
+      {
+        "id": 1,
+        "name": "Santos Walter"
+      },
+      {
+        "id": 2,
+        "name": "Tamika Franco"
+      }
+    ]
+  },
+  {
+    "_id": "6256d480384efa238aaffea4",
+    "name": "Williams Walters",
+    "picture": "http://placehold.it/32x32",
+    "age": 20,
+    "gender": "male",
+    "company": "SARASONIC",
+    "email": "williamswalters@sarasonic.com",
+    "phone": "+1 (886) 560-2134",
+    "address": "158 Arkansas Drive, Sena, Arizona, 1440",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Marjorie Perez"
+      },
+      {
+        "id": 1,
+        "name": "Carla Chang"
+      },
+      {
+        "id": 2,
+        "name": "Boone Guy"
+      }
+    ]
+  },
+  {
+    "_id": "6256d48042486d57535ad5d5",
+    "name": "Castaneda Puckett",
+    "picture": "http://placehold.it/32x32",
+    "age": 29,
+    "gender": "male",
+    "company": "COMFIRM",
+    "email": "castanedapuckett@comfirm.com",
+    "phone": "+1 (823) 419-3477",
+    "address": "779 Carlton Avenue, Fairfield, Montana, 5324",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Fitzpatrick Whitley"
+      },
+      {
+        "id": 1,
+        "name": "Alisa Lynch"
+      },
+      {
+        "id": 2,
+        "name": "Eunice Stephens"
+      }
+    ]
+  },
+  {
+    "_id": "6256d480c40ce99be1ce9b76",
+    "name": "Hammond Peterson",
+    "picture": "http://placehold.it/32x32",
+    "age": 21,
+    "gender": "male",
+    "company": "DECRATEX",
+    "email": "hammondpeterson@decratex.com",
+    "phone": "+1 (838) 532-2066",
+    "address": "758 Henry Street, Marion, Alabama, 5365",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Sims Rosales"
+      },
+      {
+        "id": 1,
+        "name": "Espinoza Savage"
+      },
+      {
+        "id": 2,
+        "name": "Elinor Harris"
+      }
+    ]
+  },
+  {
+    "_id": "6256d480c3828b810fec3310",
+    "name": "Lavonne Glover",
+    "picture": "http://placehold.it/32x32",
+    "age": 38,
+    "gender": "female",
+    "company": "EWEVILLE",
+    "email": "lavonneglover@eweville.com",
+    "phone": "+1 (926) 421-3304",
+    "address": "603 Billings Place, Somerset, Missouri, 8386",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Doreen Cantu"
+      },
+      {
+        "id": 1,
+        "name": "Cornelia Stuart"
+      },
+      {
+        "id": 2,
+        "name": "Marguerite Dalton"
+      }
+    ]
+  },
+  {
+    "_id": "6256d480397fd8794709a30b",
+    "name": "Cobb Cruz",
+    "picture": "http://placehold.it/32x32",
+    "age": 23,
+    "gender": "male",
+    "company": "ORBAXTER",
+    "email": "cobbcruz@orbaxter.com",
+    "phone": "+1 (892) 555-3772",
+    "address": "599 Harbor Court, Smeltertown, Delaware, 2322",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Gregory Mcconnell"
+      },
+      {
+        "id": 1,
+        "name": "Ortega Vasquez"
+      },
+      {
+        "id": 2,
+        "name": "Dianna Conrad"
+      }
+    ]
+  },
+  {
+    "_id": "6256d4807155d21698950efc",
+    "name": "Sargent Henderson",
+    "picture": "http://placehold.it/32x32",
+    "age": 24,
+    "gender": "male",
+    "company": "QUILM",
+    "email": "sargenthenderson@quilm.com",
+    "phone": "+1 (972) 407-3173",
+    "address": "783 Debevoise Street, Manchester, Kentucky, 2129",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Boyd Koch"
+      },
+      {
+        "id": 1,
+        "name": "Kasey Dodson"
+      },
+      {
+        "id": 2,
+        "name": "Macdonald Mccormick"
+      }
+    ]
+  },
+  {
+    "_id": "6256d480de606e1d50b3bb27",
+    "name": "Robyn Tucker",
+    "picture": "http://placehold.it/32x32",
+    "age": 33,
+    "gender": "female",
+    "company": "LIQUICOM",
+    "email": "robyntucker@liquicom.com",
+    "phone": "+1 (842) 514-3928",
+    "address": "728 Friel Place, Caberfae, Wyoming, 1520",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Kathryn Hines"
+      },
+      {
+        "id": 1,
+        "name": "Herring Nunez"
+      },
+      {
+        "id": 2,
+        "name": "Howard Wade"
+      }
+    ]
+  }
+]
