@@ -1,8 +1,7 @@
 package com.liveramp.companyfinder.ui.model
 
-import kotlinx.serialization.Serializable
+import java.io.Serializable
 
-@Serializable
 data class Company(
     val Id: String? = null,
     val name: String? = null,
@@ -13,4 +12,4 @@ data class Company(
     val email: String? = null,
     val phone: String? = null,
     val address: String? = null
-)
+) : Serializable
