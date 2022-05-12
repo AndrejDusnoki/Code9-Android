@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Company Finder</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="username_hint">Input your username</string>
+    <string name="password_hint">Input your password</string>
+    <string name="login">Login</string>
+    <string name="login_fail_message">Login failed \nusername or password is empty</string>
+    <string name="name">Name: </string>
+
 </resources>
