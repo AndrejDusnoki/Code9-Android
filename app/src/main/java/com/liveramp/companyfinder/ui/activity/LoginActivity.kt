@@ -12,4 +12,9 @@ class LoginActivity : AppCompatActivity() {
         val view = binding.root
         setContentView(view)
     }
+
+    private fun isEntryValid() : Boolean{
+        return !binding.etUsername.text.isNullOrEmpty()
+                && !binding.etPassword.text.isNullOrEmpty()
+    }
 }

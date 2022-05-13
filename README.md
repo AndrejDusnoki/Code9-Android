@@ -1,9 +1,9 @@
 # Code9 Mobile Workshop 2022
 
-## Zadatak-2.2
-- U klasi LoginActivity dodajte novu, privatnu funkciju koja ce se zvati 'isInputValid', f-ja nema ulaznih parametara, a vraca Boolean.
-Sama f-ja bi trebala da pristupi poljima za unos username i password iz xml file-a 'activity_login.xml'. 
+## Zadatak-2.3
+- U klasi LoginActivity nakon klika na dugme 'Login' proverite da li je unos korisnika validan
+  (polja username i password ne smeju biti prazni). U slucaju da je unos validan, predjite na sledeci ekran
+  (CompanyListActivity) ukoliko unos nije validan ispisite poruku korisniku da unese tekst u oba polja.
   
-U slucaju kada postoji tekst u oba polja, fja vraca true, dok u ostalim slucajevima vraca false.
-  
-Funkciju pozovite u onCreate funkciji LoginActivity-a.
+BONUS: 
+- U slucaju nevalidnog unosa, fokus ekrana bi tebalo da bude na polju koje nije zadovoljilo uslov.
