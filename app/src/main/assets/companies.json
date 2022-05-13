@@ -2,7 +2,7 @@
   {
     "_id": "6256d480740bdc173e0ec9b9",
     "picture": "http://placehold.it/32x32",
-    "company": "UNEEQ",
+    "name": "UNEEQ",
     "email": "debrahuffman@uneeq.com",
     "phone": "+1 (824) 548-2276",
     "address": "338 Amherst Street, Konterra, Illinois, 4344"
@@ -10,7 +10,7 @@
   {
     "_id": "6256d480263d4ab15ea1150a",
     "picture": "http://placehold.it/32x32",
-    "company": "ANDERSHUN",
+    "name": "ANDERSHUN",
     "email": "kimglass@andershun.com",
     "phone": "+1 (869) 495-2908",
     "address": "792 Erasmus Street, Jennings, Maryland, 6710"
@@ -18,7 +18,7 @@
   {
     "_id": "6256d480b360e64664be3fc6",
     "picture": "http://placehold.it/32x32",
-    "company": "PROGENEX",
+    "name": "PROGENEX",
     "email": "jodiemontoya@progenex.com",
     "phone": "+1 (901) 495-3278",
     "address": "577 Hancock Street, Genoa, Nevada, 3757"
@@ -26,7 +26,7 @@
   {
     "_id": "6256d4807ccedf572647e246",
     "picture": "http://placehold.it/32x32",
-    "company": "QOT",
+    "name": "QOT",
     "email": "carrollanthony@qot.com",
     "phone": "+1 (995) 500-3141",
     "address": "346 Dank Court, Mapletown, Texas, 2609"
@@ -34,7 +34,7 @@
   {
     "_id": "6256d480867af1cb9b9c11cf",
     "picture": "http://placehold.it/32x32",
-    "company": "CAXT",
+    "name": "CAXT",
     "email": "mosleyclark@caxt.com",
     "phone": "+1 (849) 529-2585",
     "address": "533 Fleet Place, Allensworth, Oklahoma, 6367"
@@ -43,7 +43,7 @@
     "_id": "6256d4801c7095ab0273f88d",
     "picture": "http://placehold.it/32x32",
     "": "male",
-    "company": "GRONK",
+    "name": "GRONK",
     "email": "whitakerstokes@gronk.com",
     "phone": "+1 (883) 560-2357",
     "address": "144 Alton Place, Harviell, Florida, 8924"
@@ -51,7 +51,7 @@
   {
     "_id": "6256d480384efa238aaffea4",
     "picture": "http://placehold.it/32x32",
-    "company": "SARASONIC",
+    "name": "SARASONIC",
     "email": "williamswalters@sarasonic.com",
     "phone": "+1 (886) 560-2134",
     "address": "158 Arkansas Drive, Sena, Arizona, 1440"
@@ -59,7 +59,7 @@
   {
     "_id": "6256d48042486d57535ad5d5",
     "picture": "http://placehold.it/32x32",
-    "company": "COMFIRM",
+    "name": "COMFIRM",
     "email": "castanedapuckett@comfirm.com",
     "phone": "+1 (823) 419-3477",
     "address": "779 Carlton Avenue, Fairfield, Montana, 5324"
@@ -67,7 +67,7 @@
   {
     "_id": "6256d480c40ce99be1ce9b76",
     "picture": "http://placehold.it/32x32",
-    "company": "DECRATEX",
+    "name": "DECRATEX",
     "email": "hammondpeterson@decratex.com",
     "phone": "+1 (838) 532-2066",
     "address": "758 Henry Street, Marion, Alabama, 5365"
@@ -75,7 +75,7 @@
   {
     "_id": "6256d480c3828b810fec3310",
     "picture": "http://placehold.it/32x32",
-    "company": "EWEVILLE",
+    "name": "EWEVILLE",
     "email": "lavonneglover@eweville.com",
     "phone": "+1 (926) 421-3304",
     "address": "603 Billings Place, Somerset, Missouri, 8386"
@@ -83,7 +83,7 @@
   {
     "_id": "6256d480397fd8794709a30b",
     "picture": "http://placehold.it/32x32",
-    "company": "ORBAXTER",
+    "name": "ORBAXTER",
     "email": "cobbcruz@orbaxter.com",
     "phone": "+1 (892) 555-3772",
     "address": "599 Harbor Court, Smeltertown, Delaware, 2322"
@@ -91,7 +91,7 @@
   {
     "_id": "6256d4807155d21698950efc",
     "picture": "http://placehold.it/32x32",
-    "company": "QUILM",
+    "name": "QUILM",
     "email": "sargenthenderson@quilm.com",
     "phone": "+1 (972) 407-3173",
     "address": "783 Debevoise Street, Manchester, Kentucky, 2129"
@@ -99,7 +99,7 @@
   {
     "_id": "6256d480de606e1d50b3bb27",
     "picture": "http://placehold.it/32x32",
-    "company": "LIQUICOM",
+    "name": "LIQUICOM",
     "email": "robyntucker@liquicom.com",
     "phone": "+1 (842) 514-3928",
     "address": "728 Friel Place, Caberfae, Wyoming, 1520"

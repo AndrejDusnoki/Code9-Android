@@ -1,11 +1,8 @@
 package com.liveramp.companyfinder.ui.activity
 
 import android.os.Bundle
-import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
-import com.liveramp.companyfinder.R
 import com.liveramp.companyfinder.databinding.ActivityCompanyDetailsBinding
-import com.liveramp.companyfinder.databinding.ActivityCompanyListBinding
 import com.liveramp.companyfinder.ui.model.Company
 
 class CompanyDetailsActivity : AppCompatActivity() {
@@ -16,6 +13,6 @@ class CompanyDetailsActivity : AppCompatActivity() {
         val view = binding.root
         setContentView(view)
         val company = intent.getSerializableExtra("COMPANY") as Company
-        binding.tvCompanyValue.text = company.company
+        binding.tvCompanyValue.text = company.name
     }
 }

@@ -37,7 +37,7 @@ class CompanyListAdapter(private val companyList: List<Company>, private val lis
 
         // Get element from your dataset at this position and replace the
         // contents of the view with that element
-        viewHolder.textView.text = companyList[position].company
+        viewHolder.textView.text = companyList[position].name
         viewHolder.textView.setOnClickListener {
             listener.onItemSelected(companyList[position])
         }
