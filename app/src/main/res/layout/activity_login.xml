@@ -20,13 +20,14 @@
         <TextView
             android:layout_gravity="center"
             android:textSize="24sp"
-            android:text="@string/username"
+            android:text="Username"
+            android:id="@+id/username"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginBottom="8dp"/>
         <EditText
             android:paddingStart="12dp"
-            android:hint="@string/username_hint"
+            android:hint="Input your user name"
             android:background="@drawable/et_stryle"
             android:id="@+id/et_username"
             android:layout_width="match_parent"
@@ -36,11 +37,12 @@
             android:layout_gravity="center"
             android:textSize="24sp"
             android:text="@string/password"
+            android:id="@+id/password"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginBottom="8dp"/>
         <EditText
-            android:inputType="textPassword"
+            android:inputType="text"
             android:hint="@string/password_hint"
             android:paddingStart="12dp"
             android:background="@drawable/et_stryle"
